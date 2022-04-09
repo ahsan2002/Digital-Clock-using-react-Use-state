@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(rgb(198, 76, 76),rgb(195, 153, 98));
+}
+div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-color: rgb(84, 233, 208);
+    padding:23px 45px ;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 25px;
+}
